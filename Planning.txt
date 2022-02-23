@@ -4,9 +4,9 @@ Home Page
         Quote telling Purpose
 
     Blog Cards 
-        Recent 3 Displayed with new ribbon
+        Recent 3 Displayed with new ribbon rest 3 without ribbon
         Button to see more uploads
-        Button to open playlists
+        Button to open playlists (display 3 playlists on page)
 
     Donation Tab with links to UPI, Paypal, Venmo and Crypto Transfer as Donations and Video Ad Donations.
 
