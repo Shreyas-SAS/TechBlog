@@ -1,0 +1,61 @@
+Home Page
+    Blog Intro
+        Name.
+        Quote telling Purpose
+
+    Blog Cards 
+        Recent 3 Displayed with new ribbon
+        Button to see more uploads
+        Button to open playlists
+
+    Donation Tab with links to UPI, Paypal, Venmo and Crypto Transfer as Donations and Video Ad Donations.
+
+        Buttons:
+            Donate by Digital Cash
+            Donate by Watching Ads
+
+        Supporters (List of public Donators)
+        Mentions to anonymous Supporters
+        Vote of thanks.
+
+    Subscriptions:
+        Email List (page link)
+        Telegram (Link)
+        Wapp Grp (Link)
+
+    Contacts
+        Email only
+        (for bussiness & contact)
+
+        Ads Partner Page link
+
+Blog Pages:
+    Image
+
+    Content
+
+    Buttons to previous & next.
+    Suggestions to other readlists
+
+    Donation
+
+Donation Page
+    Donation Tab with links to UPI, Paypal, Venmo and Crypto Transfer as Donations and Video Ad Donations.
+
+        Buttons:
+            Donate by Digital Cash
+            Donate by Watching Ads
+
+        Supporters (List of public Donators)
+        Mentions to anonymous Supporters
+        Vote of thanks.
+
+Subscription:
+    Subscribe to the mailing List to never miss out an update. You can always unsubscribe Later.
+
+    Subscription Form
+    Fields:
+        Name
+        Email
+        checkbox mails
+        checkbox promotions (merchs/offers)
